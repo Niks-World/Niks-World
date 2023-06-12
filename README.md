@@ -1,5 +1,5 @@
 ### Hi there <a href="https://www.Niks-World.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/Niks-World/Niks-World/blob/main/NIKs-World.png) 
 <h1 align="center">Hi 👋, I'm NIK </h1>
 
 This is the place where I opensource stuff and break things :rofl:
