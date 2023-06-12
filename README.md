@@ -1,11 +1,16 @@
 ### Hi there <a href="https://www.Niks-World.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+<h1 align="center">Hi 👋, I'm NIK </h1>
+
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter, Go
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
+- 👨‍💻 &nbsp;Read more about my projects at [Niks-World.com](https://www.gautamkrishnar.com/#portfolio)
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -18,11 +23,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.sv" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.sv" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.sv" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.sv" alt="4214976" height="30" width="40" /></a>
+<a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.sv" alt="gautamkrishnar" height="30" width="40" /></a>
 
 📊 &nbsp;**This week I spent my time on**
 
@@ -58,7 +63,7 @@ During my free time, I actively contribute to open-source projects on GitHub. Du
   
 I also maintain and contribute to a lot of community open-source projects and libraries. Some of the communities includes [Tinkerhub Foundation](https://tinkerhub.org/), [Kites Foundation](https://kitesfoundation.org/), [Mozilla Foundation](https://foundation.mozilla.org/en/), [Patternfly](https://www.patternfly.org/) etc. I strongly believe that the true value of open-source is not just the code, it's the community around it.
 
-You can read more about me and my open source journey at my website: [https://www.gautamkrishnar.com/](https://www.gautamkrishnar.com/)
+You can read more about me and my open source journey at my website: [https://www.Niks-World.com/](https://www.Niks-World.com/)
 
 I create most of my open-source projects to solve the challenges I encounter in life, with many more still waiting to be addressed. I am embarking on a quest to find solutions for each one, one problem at a time.
 
