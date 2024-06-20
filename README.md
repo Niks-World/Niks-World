@@ -1,7 +1,7 @@
 ### Hi there <a href="https://www.Niks-World.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 ![logo](https://github.com/Niks-World/Niks-World/blob/main/NIKs-World.png) 
 <h1 align="center">Hi 👋, I'm NIK </h1>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Niks-World&label=Profile%20views&color=0e75b6&style=flat" alt="Niks-World" /> </p>
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
@@ -24,10 +24,10 @@ This is the place where I opensource stuff and break things :rofl:
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://dev.to/NIK" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="NIK" height="30" width="40" /></a>
-<a href="https://twitter.com/gautamkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gautamkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nikhil-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-in" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/421497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
-<a href="https://instagram.com/gautamkrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://instagram.com/Nikhil_love_only_one" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil_love_only_one" height="30" width="40" /></a>
 
 📊 &nbsp;**This week I spent my time on**
 
