@@ -7,8 +7,9 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter.
 - 💬 &nbsp;Ask me about anything related to Javascript/React/Python
-- 👨‍💻 &nbsp;Read more about my projects at <a href="https://niks-world.github.io/" target="_blank" rel="noopener noreferrer">https://niks-world.github.io/</a>
+- 👨‍💻 &nbsp;Read more about me and my projects at **[Portfolio](href="https://niks-world.github.io/)** 🌐
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s  🐎  Football and BGMI(Town Best player).
+  
 - <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 
@@ -100,6 +101,10 @@ I create most of my projects to solve challenges I encounter in everyday life, w
 <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </a>
+<a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
+</a>
+
  </p>
 
 
@@ -113,3 +118,12 @@ Pretty Good Privacy encryption tool
 
 ```
 </details>
+
+<!-- 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Niks-World&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Niks-World" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Niks-World&show_icons=true&locale=en&theme=tokyonight" alt="Niks-World" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niks-World&&theme=tokyonight" alt="Niks-World" /></p>
+  -->
+
