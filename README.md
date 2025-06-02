@@ -7,7 +7,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Flutter.
 - 💬 &nbsp;Ask me about anything related to Javascript/React/Python
-- 👨‍💻 &nbsp;Read more about me and my projects at **[Portfolio](href="https://niks-world.github.io/)** 🌐
+- 👨‍💻 &nbsp;Read more about me and my projects at <a href="https://niks-world.github.io/" target="_blank"><strong>Portfolio</strong></a> 🌐
 - ⚡ &nbsp;Fun fact: I :heart: :dog:s  🐎  Football and BGMI(Town Best player).
   
 - <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
