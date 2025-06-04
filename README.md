@@ -114,7 +114,7 @@ I create most of my projects to solve challenges I encounter in everyday life, w
   <br/>
 
 ```
-Pretty Good Privacy encryption tool
+Pretty Good Privacy encryption tools
 
 ```
 </details>
